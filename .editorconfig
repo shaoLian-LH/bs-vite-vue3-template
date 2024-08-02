@@ -1,0 +1,15 @@
+# EditorConfig is awesome: https://EditorConfig.org
+
+# 根目录标识，表示是最顶层的 editorconfig 配置文件
+root = true
+
+# 匹配所有文件
+[*]
+charset = utf-8
+indent_style = tab
+indent_size = 2
+end_of_line = lf
+# 文件保存时在文件末尾添加一个新行
+insert_final_newline = true
+# 剔除行尾的空白字符
+trim_trailing_whitespace = true
